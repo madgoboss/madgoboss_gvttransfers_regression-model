@@ -1,4 +1,4 @@
-# madgoboss_portfolio
+# madgoboss_gvttransfers
 
 Project 1: Government Transfer - Predictive Model using Linear Regression
 
